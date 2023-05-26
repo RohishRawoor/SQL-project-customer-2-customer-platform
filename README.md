@@ -1,0 +1,1 @@
+# SQL-project-customer-2-customer-platform
